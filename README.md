@@ -1,7 +1,7 @@
 ### Tracking marker detected. Pose estimated...
 # Hello, World! 👋 I'm Stamatios Alexiou.
 
-> **Soon-to-be ECE Graduate | Software Engineer**
+> **Soon-to-be TUC ECE Graduate | Software Engineer**
 
 I am deeply passionate about bridging the gap between human-computer interaction and machine intelligence. I love engineering systems that don't just execute code, but actually **perceive** their environment, **learn** from complex data, and **interact** seamlessly with humans.
 
