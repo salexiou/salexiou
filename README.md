@@ -11,6 +11,7 @@ I am deeply passionate about bridging the gap between human-computer interaction
 * 👁️ **Computer Vision**
 * 🌌 **Generative AI & Deep Learning**
 
+
 ## 💻 Tech Stack
 
 **Languages**<br>
@@ -27,3 +28,23 @@ I am deeply passionate about bridging the gap between human-computer interaction
 
 **Web**<br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+  <a href="https://linkedin.com/in/stamatios-alexiou-42447a2a7" target="_blank" rel="noopener noreferrer">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40"/>
+  </a>
+
+  <a href="mailto:stamatiosalexiou@gmail.com">
+    <img align="center"
+         src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+         alt="Gmail"
+         height="25"
+         width="35"/>
+  </a>
+</p>
