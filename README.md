@@ -11,6 +11,7 @@ I am deeply passionate about bridging the gap between human-computer interaction
 * 👁️ **Computer Vision**
 * 🌌 **Generative AI & Deep Learning**
 * 🎮 **Game Development**
+* 🛠️ **Software Engineering**
 
 ## 💻 Tech Stack
 
